@@ -7,6 +7,6 @@ This is a temporary script file.
 
 x = 5
 y = 5*x
-z =x*y
+print x
 
-print z
+
