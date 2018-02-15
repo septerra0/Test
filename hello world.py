@@ -4,10 +4,9 @@ Spyder Editor
 
 This is a temporary script file.
 """
-print "hello world"
+
 x = 5
 y = 5*x
-<<<<<<< HEAD
+
 print x
-=======
->>>>>>> parent of af4ce03... remove hello world
+
